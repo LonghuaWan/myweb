@@ -1,0 +1,26 @@
+    sudo apt-get update
+    sudo apt-get install nginx-full
+    sudo apt-get install pip
+    sudo apt-get install python-pip
+    sudo apt-get install build-essential
+    sudo apt-get install libc6-dev
+    sudo apt-get install libc-dev-bin
+    sudo apt-get install build-essential
+    sudo apt-get install g++
+    sudo apt-get install g++-4.8
+    sudo apt-get install libstdc++-4.8-dev g++-4.8
+    sudo apt-get install libc6-dev libstdc++-4.8-dev g++-4.8
+    sudo apt-get install pcre pcre-devel pcre-static
+    sudo apt-get install libpcre3 libpcre3-dev
+    sudo apt-get remove uwsgi
+    sudo apt-get install python-dev
+    sudo apt-get install git
+    sudo apt-get install python-pip
+    pip install uwsgi
+    sudo pip install Flask
+    gcc pip install uwsgi
+    pip uninstall uwsgi
+    sudo pip install uwsgi
+    sudo pip uninstall uwsgi
+    sudo pip install uwsgi
+    sudo pip install flask
